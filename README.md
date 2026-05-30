@@ -84,6 +84,11 @@
   <img src="github-metrics.svg" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight&hide_border=true" height="180em" />
 </p>
+---  
+  # ✨ Secondary Id 
+  <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu054&theme=tokyonight&hide_border=true" height="180em" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-m6lc4be5p-vibhanshusonis-projects.vercel.app/api/top-langs/?username=Vibhanshusoni&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
