@@ -81,7 +81,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="github-metrics.svg" height="180em" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 ---  
@@ -90,17 +90,11 @@
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibhanshu054&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-m6lc4be5p-vibhanshusonis-projects.vercel.app/api/top-langs/?username=Vibhanshusoni&layout=compact&theme=tokyonight&hide_border=true" height="165em" />
-</p>
 
 ---
 
 ## ✨ Fun Touch  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vibhanshusoni&theme=darkhub&no-bg=true&no-frame=true&margin-w=5"/>
-</p>
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
@@ -115,7 +109,9 @@
 <p align="center">
   <a href="mailto:vibhanshusoniofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/vibhanshusoni98/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Vibhanshusoni"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/vibhanshu054"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Vibhanshusoni"><img src="https://img.shields.io/badge/Secondary%20GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 </p>
 
 ---
