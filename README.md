@@ -84,6 +84,9 @@
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vibhanshusoni&theme=tokyonight&hide_border=true" height="180em" />
+
+  <img src="./github-metrics.svg" />
+
 </p>
 
 ---  
