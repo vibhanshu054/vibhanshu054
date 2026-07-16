@@ -2,7 +2,7 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "20 13 * * *"  # Roj raat ko 12 baje update hoga
+    - cron: "55 18 * * *"  # Roj raat ko 12 baje update hoga
   workflow_dispatch:
 
 jobs:
